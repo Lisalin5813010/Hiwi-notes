@@ -35,3 +35,9 @@ Now go back to your local lin/dev branch and merge those changes with the dev br
 **git merge dev**
 </br>
 <https://stackoverflow.com/questions/69374455/fetch-the-latest-changes-from-main-branch>
+
+29.04.2023
+
+If I want to discard the local changes:
+</br>
+**git restore <file...>**
